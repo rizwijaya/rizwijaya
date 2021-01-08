@@ -1,6 +1,6 @@
 # I'm Rizqi Wijaya <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
-<img align="right" alt="PC GIF" src="https://github.com/rizwijaya/rizwijaya/blob/master/main/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/PC.gif" width="190" />
 
 ### <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Earth.gif" width="24px">
 
