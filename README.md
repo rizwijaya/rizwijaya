@@ -1,4 +1,4 @@
-# I'm Rizqi Wijaya <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
+# I'm Muhammad Rizqi Wijaya <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
 <img align="right" alt="PC GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/PC.gif" width="190" />
 
