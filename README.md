@@ -21,10 +21,10 @@
 ## <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Medal.gif" height="18px"> My Popular Repositories
 
 - [**Machine Learning**](https://github.com/rizwijaya/machine-learning)- *Everything about Machine Learning, Data Science, and Ai*
-<!-- - [**Exacta Application**](https://github.com/rizwijaya/web-biz)- *QR Code-Based Ticket and Attendance Management System* -->
 - [**ARmurphy**](https://github.com/rizwijaya/ARmurphy)- *My First Project Augmented Reality*
 - [**Bizcar Aplication**](https://github.com/rizwijaya/web-biz)- *Integrated Vehicle Rental System*
-- [**100 Program C**](https://github.com/rizwijaya/program-c) 
+- [**100 Program C**](https://github.com/rizwijaya/program-c) - *100 C programs that I created for the first time*
+<!-- - [**Exacta Application**](https://github.com/rizwijaya/web-biz)- *QR Code-Based Ticket and Attendance Management System* -->
 
 <br>
 
