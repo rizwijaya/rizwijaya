@@ -1,16 +1,16 @@
 # I'm Rizqi Wijaya <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
-<img align="right" alt="PC GIF" src="https://github.com/rizwijaya/rizwijaya/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/rizwijaya/rizwijaya/blob/master/main/PC.gif" width="190" />
 
-### <img src="https://github.com/rizwijaya/rizwijaya/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/rizwijaya/rizwijaya/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I am a undergraduate from <a href="https://www.its.ac.id/"> <b>Institute Technology Sepuluh Nopember</b>, Surabaya</a>.  
-    A <b>Website Developer</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/master/Assets/Designer.gif" width="30px"> and a <b>Cyber Security Enthusiast,</b>&nbsp;<img src="https://github.com/rizwijaya/rizwijaya/blob/master/Assets/Developer.gif" width="36px">  who is <b>obsessed</b>
+    A <b>Website Developer</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Designer.gif" width="30px"> and a <b>Cyber Security Enthusiast,</b>&nbsp;<img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Developer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
@@ -18,7 +18,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{rizwijaya}/count.svg)
 
-## <img src="https://github.com/rizwijaya/rizwijaya/blob/master/Assets/Medal.gif" height="18px"> My Popular Repositories
+## <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Medal.gif" height="18px"> My Popular Repositories
 
 - [**Machine Learning**](https://github.com/rizwijaya/machine-learning)- *Everything about Machine Learning, Data Science, and Ai*
 <!-- - [**Exacta Application**](https://github.com/rizwijaya/web-biz)- *QR Code-Based Ticket and Attendance Management System* -->
@@ -50,11 +50,11 @@
 
 <br>
 
-<img src="https://github.com/rizwijaya/rizwijaya/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
 
-## <img src="https://github.com/rizwijaya/rizwijaya/blob/master/Assets/hmm.gif" height="18px"> Connect with me<img src="https://github.com/rizwijaya/rizwijaya/blob/master/Assets/Handshake.gif" height="32px"> 
+## <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/hmm.gif" height="18px"> Connect with me<img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Handshake.gif" height="32px"> 
 
 <p>
     <a href="https://www.linkedin.com/in/muhammad-rizqi-wijaya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
