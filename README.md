@@ -24,7 +24,7 @@
 - <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/headbang.gif" width="20vw" /> [**ARmurphy**](https://github.com/rizwijaya/ARmurphy)- *My First Project Augmented Reality*
 - <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/happy.gif" width="20vw" /> [**Bizcar Aplication**](https://github.com/rizwijaya/web-biz)- *Integrated Vehicle Rental System*
 - <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/powerup.gif" width="20vw" /> [**100 Program C**](https://github.com/rizwijaya/program-c) - *100 C programs that I created for the first time*
-<!-- - [**Exacta Application**](https://github.com/rizwijaya/web-biz)- *QR Code-Based Ticket and Attendance Management System* -->
+- <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/powerup.gif" width="20vw" /> [**Exacta Application**](https://github.com/rizwijaya/ExactaApps)- *QR Code-Based Ticket and Attendance Management System*
 
 <br>
 
