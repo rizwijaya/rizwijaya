@@ -1,16 +1,16 @@
-# I'm Muhammad Rizqi Wijaya <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
+# I'm Muhammad Rizqi Wijaya <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Mario_Hello_Big.gif"  height="30px">
 
-<img align="right" alt="PC GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/PC.gif" height="190" />
 
-### <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Hi.gif" height="29px"> **Hello world!** &nbsp;<img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Earth.gif" height="24px">
 
 <p>
   <em>
     I am a undergraduate from <a href="https://www.its.ac.id/"> <b>Institute Technology Sepuluh Nopember</b>, Surabaya</a>.  
-    A <b>Website Developer</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Designer.gif" width="30px"> and a <b>Cyber Security Enthusiast,</b>&nbsp;<img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Developer.gif" width="36px">  who is <b>obsessed</b>
+    A <b>Website Developer</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Designer.gif" height="22px"> and a <b>Cyber Security Enthusiast,</b>&nbsp;<img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Developer.gif" height="22px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Medal.gif" width="20px">
+    <b>grow</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Rocket.gif" height="22px">and 
+    <b>excel.</b> <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Medal.gif" height="22px">
   </em>  
 </p>
 
@@ -20,11 +20,11 @@
 
 ## <img src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/Medal.gif" height="18px"> My Popular Repositories
 
-- <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/wave.gif" width="20vw" /> [**Machine Learning**](https://github.com/rizwijaya/machine-learning)- *Everything about Machine Learning, Data Science, and Ai*
-- <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/headbang.gif" width="20vw" /> [**ARmurphy**](https://github.com/rizwijaya/ARmurphy)- *My First Project Augmented Reality*
-- <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/happy.gif" width="20vw" /> [**Bizcar Aplication**](https://github.com/rizwijaya/web-biz)- *Integrated Vehicle Rental System*
-- <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/powerup.gif" width="20vw" /> [**100 Program C**](https://github.com/rizwijaya/program-c) - *100 C programs that I created for the first time*
-- <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/powerup.gif" width="20vw" /> [**Exacta Application**](https://github.com/rizwijaya/ExactaApps)- *QR Code-Based Ticket and Attendance Management System*
+- <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/wave.gif" height="20vw" /> [**Machine Learning**](https://github.com/rizwijaya/machine-learning)- *Everything about Machine Learning, Data Science, and Ai*
+- <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/headbang.gif" height="20vw" /> [**ARmurphy**](https://github.com/rizwijaya/ARmurphy)- *My First Project Augmented Reality*
+- <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/happy.gif" height="20vw" /> [**Bizcar Aplication**](https://github.com/rizwijaya/web-biz)- *Integrated Vehicle Rental System*
+- <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/powerup.gif" height="20vw" /> [**100 Program C**](https://github.com/rizwijaya/program-c) - *100 C programs that I created for the first time*
+- <img alt="GIF" src="https://github.com/rizwijaya/rizwijaya/blob/main/Assets/powerup.gif" height="20vw" /> [**Exacta Application**](https://github.com/rizwijaya/ExactaApps)- *QR Code-Based Ticket and Attendance Management System*
 
 <br>
 
